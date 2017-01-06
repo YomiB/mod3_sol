@@ -1,0 +1,14 @@
+.navbar-brand {
+	font-size: 2.5em;
+	margin: 1px 0 0 0;
+}
+
+.navbar-brand a:hover , a:focus {text-decoration: none;}
+
+ ul.nav > li:hover {background-color: #ccc;}
+ 
+ h2 {padding: 50px;}
+ 
+
+
+
